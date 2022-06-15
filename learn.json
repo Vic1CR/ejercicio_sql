@@ -5,6 +5,7 @@
 	"solution": "https://github.com/4GeeksAcademy/connecting-to-a-sql-database-project-tutorial/blob/main/src/solution.py",
 	"status": "published",
 	"translations": ["us"],
+	"video-id": "nJzQt_3p_TM",
 	"technologies": ["sql", "mysql", "mariadb", "sqlalchemy"],
 	"difficulty": "beginner",
 	"syntax": "python",

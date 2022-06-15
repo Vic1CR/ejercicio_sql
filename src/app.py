@@ -21,6 +21,9 @@ def ejecturarDesdeFile(file_name):
 
 
 
+# load the .env file variables
+load_dotenv()
+
 # 1) Connect to the database here using the SQLAlchemy's create_engine function
 
 def connect():
