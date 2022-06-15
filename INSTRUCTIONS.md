@@ -59,7 +59,7 @@ All your Python code must always be inside the `src` folder, this is also anothe
 
 1. The `connect` function contains the necesary code to connect to your python database, if you watch carefully you will see how it loads all the environment variables into a `connection_string` variable and then it calls the `create_engine` and `connect` fuctions.
 
-```py
+
 def connect():
     global engine # this allows us to use a global variable called engine
     # A "connection string" is basically a string that contains all the databse credentials together
