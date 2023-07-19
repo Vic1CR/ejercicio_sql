@@ -11,11 +11,11 @@ Dentro de este repositorio, encontrarás un archivo llamado `./INSTRUCTIONS.es.m
 
 ## 🌱 Cómo comenzar este proyecto
 
-La forma más fácil de comenzar a trabajar en este proyecto es usando Gitpod:
+La forma más fácil de comenzar a trabajar en este proyecto es usando Codespace:
 
 1. Haz una fork de [este repositorio](https://github.com/4geeksacademy/connecting-to-a-sql-database-project-tutorial) en tu cuenta de Github.
-2. Abre el fork recién creado en Gitpod usando la [extensión del botón Gitpod](https://www.gitpod.io/docs/browser-extension/).
-3. Una vez que VSCode de Gitpod haya terminado de abrir, puedes abrir el archivo `problems.ipynb` y comenzar a resolver cada ejercicio dentro del notebook.
+2. Abre el repositorio creado recientemente en Codespace usando la [extensión del botón de Codespace](https://docs.github.com/en/codespaces/developing-in-codespaces/creating-a-codespace-for-a-repository#creating-a-codespace-for-a-repository).
+3. Una vez que el VSCode del Codespace haya terminado de abrirse, puedes abrir el archivo `problems.ipynb` y comenzar a resolver cada ejercicio dentro del notebook.
 
 ## 🚛 Cómo entregar este proyecto
 

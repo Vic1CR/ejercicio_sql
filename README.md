@@ -11,19 +11,11 @@ Inside this repository, you will find a file called `./INSTRUCTIONS.md` with the
 
 ## 🌱 How to start this project
 
-This project comes with the necessary files to start working immediately.
+The easiest way to start working on this project is to use Codespace:
 
-We recommend opening this very same repository using a provisioning tool like [Codespaces](https://4geeks.com/lesson/what-is-github-codespaces) (recommended) or [Gitpod](https://4geeks.com/lesson/how-to-use-gitpod). Alternatively, you can clone it on your local computer using the `git clone` command. 
-
-This is the repository you need to fork and open:
-
-```
-https://github.com/4GeeksAcademy/connecting-to-a-sql-database-project-tutorial
-```
-
-**👉 Please follow these steps on** [how to start a coding project](https://4geeks.com/lesson/how-to-start-a-project).
-
-Once Gitpod VSCode has finished opening you can go ahead and open the `problems.ipynb` file and start solving each exercise inside the notebook.
+1. fork [this repository](https://github.com/4geeksacademy/connecting-to-a-sql-database-project-tutorial) to your Github account.
+2. Open the newly created repository in Codespace using the [Codespace button extension](https://docs.github.com/en/codespaces/developing-in-codespaces/creating-a-codespace-for-a-repository#creating-a-codespace-for-a-repository).
+3. Once the Codespace VSCode has finished opening, you can open the `problems.ipynb` file and start solving each exercise inside the notebook.
 
 ## 🚛 How to deliver this project
 
