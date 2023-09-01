@@ -21,6 +21,6 @@ Once you have finished solving the exercises, be sure to commit your changes, pu
 
 ## 📝 Instructions
 
-Read the contents of the `./INSTRUCTIONS.en.md` file containing the steps to complete the project, follow them and develop the solution first in `./src/explore.ipynb` for testing and then move the clean code to `./src/app.py`. Be sure to delete the notebook once you no longer need it to keep the project clean and tidy.
+Read the contents of the `./INSTRUCTIONS.md` file containing the steps to complete the project, follow them and develop the solution first in `./src/explore.ipynb` for testing and then move the clean code to `./src/app.py`. Be sure to delete the notebook once you no longer need it to keep the project clean and tidy.
 
 > NOTE: Solution: https://github.com/4geeksacademy/connecting-to-a-sql-database-project-tutorial/blob/main/src/solution.py
