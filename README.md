@@ -1,26 +1,26 @@
-<!-- hide -->
-# Connecting to a SQL Database Project Tutorial
-<!-- endhide -->
+<!--hide-->
+# Databases in Python - Step by step guide
+<!--endhide-->
 
 - Create a SQL database localy using the psql command.
 - Understand and get used to the most basic profesional python project structure with PIP and `.env` file.
 - Use SQLAlchemy the most popular library in the industry for connecting to SQL databases.
 - Use Pandas to display SQL Tables as dataframes.
 
-Inside this repository, you will find a file called `./INSTRUCTIONS.md` with the steps needed to complete it.
+## 🌱  How to start this project.
 
-## 🌱 How to start this project
+Follow the instructions below:
 
-The easiest way to start working on this project is to use Codespace:
-
-1. fork [this repository](https://github.com/4geeksacademy/connecting-to-a-sql-database-project-tutorial) to your Github account.
+1. Create a new repository by forking the [Git project](https://github.com/4geeksacademy/connecting-to-a-sql-database-project-tutorial) or [by clicking here](https://github.com/4geeksacademy/connecting-to-a-sql-database-project-tutorial/fork).
 2. Open the newly created repository in Codespace using the [Codespace button extension](https://docs.github.com/en/codespaces/developing-in-codespaces/creating-a-codespace-for-a-repository#creating-a-codespace-for-a-repository).
-3. Once the Codespace VSCode has finished opening, you can open the `problems.ipynb` file and start solving each exercise inside the notebook.
+3. Once the Codespace VSCode has finished opening, start your project by following the instructions below.
 
 ## 🚛 How to deliver this project
 
-Once you are finished solving the exercises make sure to make your changes, then push to your repository fork and go to 4Geeks.com to upload the repository link.
+Once you have finished solving the exercises, be sure to commit your changes, push to your repository and go to 4Geeks.com to upload the repository link.
 
-# Solutions
+## 📝 Instructions
 
-We also incorporated the solution samples on `./src/solution.py` that we strongly suggest you only use if you are stuck for more than 30min or if you have already finished and want to compare it with your approach.
+Read the contents of the `./INSTRUCTIONS.en.md` file containing the steps to complete the project, follow them and develop the solution first in `./src/explore.ipynb` for testing and then move the clean code to `./src/app.py`. Be sure to delete the notebook once you no longer need it to keep the project clean and tidy.
+
+> NOTE: Solution: https://github.com/4geeksacademy/connecting-to-a-sql-database-project-tutorial/blob/main/src/solution.py
