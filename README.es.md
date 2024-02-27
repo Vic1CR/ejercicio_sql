@@ -9,11 +9,19 @@
 
 ## 🌱  Cómo iniciar este proyecto
 
-Sigue las siguientes instrucciones:
+Este proyecto viene con los archivos necesarios para comenzar a trabajar de inmediato.
 
-1. Crear un nuevo repositorio haciendo fork en el [proyecto de Git](https://github.com/4geeksacademy/connecting-to-a-sql-database-project-tutorial) o [haciendo clic aquí](https://github.com/4geeksacademy/connecting-to-a-sql-database-project-tutorial/fork).
-2. Abre el repositorio creado recientemente en Codespace usando la [extensión del botón de Codespace](https://docs.github.com/en/codespaces/developing-in-codespaces/creating-a-codespace-for-a-repository#creating-a-codespace-for-a-repository).
-3. Una vez que el VSCode del Codespace haya terminado de abrirse, comienza tu proyecto siguiendo las instrucciones a continuación.
+Recomendamos abrir este mismo repositorio utilizando una herramienta de aprovisionamiento como [Codespaces](https://4geeks.com/lesson/what-is-github-codespaces) (recomendada) o [Gitpod](https://4geeks.com/lesson/how-to-use-gitpod). Alternativamente, puedes clonarlo en tu computadora local usando el comando `git clone`.
+
+Este es el repositorio que necesitas hacer fork y abrir:
+
+```
+https://github.com/4GeeksAcademy/connecting-to-a-sql-database-project-tutorial
+```
+
+**👉 Por favor sigue estos pasos en** [como iniciar un proyecto de programación](https://4geeks.com/lesson/how-to-start-a-project).
+
+Una vez que haya terminado de abrir, puedes abrir el archivo `app.py` y comenzar a resolver.
 
 ## 🚛 Cómo entregar este proyecto
 
