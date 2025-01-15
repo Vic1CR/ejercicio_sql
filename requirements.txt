@@ -1,8 +1,8 @@
 # Base ----------------------------------------
-sqlalchemy==1.4.37
-pandas>=1.4.2
+sqlalchemy
+pandas
 python-dotenv==0.20.0
-psycopg2-binary==2.9.3
+psycopg2-binary
 
 numpy>=1.18.5
 # opencv-python>=4.1.2
