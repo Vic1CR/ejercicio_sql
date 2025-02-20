@@ -88,3 +88,33 @@ with engine.connect() as connection:
 # 4) Use Pandas to read and display a table
 df = pd.read_sql("SELECT * FROM publishers;", engine)
 print(df)
+
+# Mostrar las primeras 5 filas de la tabla authors
+df_authors = pd.read_sql("SELECT * FROM authors;", engine)
+print("Authors DataFrame:")
+print(df_authors.head())
+
+# Contar el número de registros en la tabla books
+df_books = pd.read_sql("SELECT * FROM books;", engine)
+print("Number of books:", df_books.shape[0])
+
+# Agrupar y contar el número de libros por cada publisher
+df_books_by_publisher = pd.read_sql("""
+SELECT p.name, COUNT(b.book_id) AS book_count 
+FROM books b 
+JOIN publishers p ON b.publisher_id = p.publisher_id 
+GROUP BY p.name;
+""", engine)
+print("Books by Publisher:")
+print(df_books_by_publisher)
+
+
+# Obtener todos los libros publicados por 'O Reilly Media'
+df_oreilly_books = pd.read_sql("""
+SELECT b.title, b.published_date 
+FROM books b 
+JOIN publishers p ON b.publisher_id = p.publisher_id 
+WHERE p.name = 'O Reilly Media';
+""", engine)
+print("O'Reilly Media Books:")
+print(df_oreilly_books)
